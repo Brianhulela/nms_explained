@@ -1,5 +1,7 @@
 # NMS Explained: Step-by-Step Guide with Python  
 
+![NMS Explained Cover](https://github.com/Brianhulela/nms_explained/blob/master/cover_image.jpg?raw=true)
+
 The notebook illustrates:  
 - How multiple bounding box predictions arise in object detection models  
 - The role of confidence scores and Intersection over Union (IoU)  
